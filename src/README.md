@@ -1,4 +1,4 @@
-# Steps to run Snowman
+# Steps to run Task 1A
 
 ```sh
 # Open a terminal and start turtlesim node
@@ -18,7 +18,7 @@ ros2 run snowman move
 # now you should see on turtlesim node, enjoy :)
 ```
 
-# Steps to run task1_b base
+# Steps to run Task 1B
 
 ```sh
 # install required packages
